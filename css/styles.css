@@ -40,14 +40,14 @@ input{
   text-align: center;
   background: #fff;
   color: black;
-}
+  }
 footer{
-  height: 50px;
+  height: 125px;
   padding: 10px;
   text-align: center;
   background-color: #000;
   color: #fff;
-  font-size: 8px;
+  font-size: 16px;
   font-family: latobold,arial,helvetica;
   }
 .background-section-three{
@@ -58,7 +58,7 @@ footer{
   justify-content:center;
 }
 ul {
-  font-size: 10px;
+  font-size: 20px;
   padding: 10px;  
   padding-left: 0px;
   list-style:none;
