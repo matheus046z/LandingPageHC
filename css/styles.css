@@ -17,6 +17,7 @@ html {
 
 .background-section-one{
   background-image: url(../assets/Ssale.jpg);
+  background-color: aquamarine;
   background-attachment: fixed;
   background-size: cover;
   background-repeat: no-repeat;
@@ -67,9 +68,4 @@ ul {
   padding: 5px;
   padding-inline-start: 10px;
   padding-inline-end: 10px;
-}
-
-nav-open{
-  nav-up: center;
-
 }
