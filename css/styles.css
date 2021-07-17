@@ -16,7 +16,7 @@ html {
 }
 
 .background-section-one{
-  background-image: url(../assets/bg.jpg);
+  background-image: url(../assets/Ssale.jpg);
   background-attachment: fixed;
   background-size: cover;
   background-repeat: no-repeat;
@@ -47,7 +47,7 @@ footer{
   text-align: center;
   background-color: #000;
   color: #fff;
-  font-size: 16px;
+  font-size: 13px;
   font-family: latobold,arial,helvetica;
   }
 .background-section-three{
@@ -58,7 +58,7 @@ footer{
   justify-content:center;
 }
 ul {
-  font-size: 20px;
+  font-size: 16px;
   padding: 10px;  
   padding-left: 0px;
   list-style:none;
@@ -67,4 +67,9 @@ ul {
   padding: 5px;
   padding-inline-start: 10px;
   padding-inline-end: 10px;
+}
+
+nav-open{
+  nav-up: center;
+
 }
